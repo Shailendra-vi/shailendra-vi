@@ -17,7 +17,7 @@ I love exploring new challenges and pushing boundaries in the tech world. My pas
 ---
 
 ### What Drives Me?
-The new era of technolgy where everyone can dive best experience
+The new era of technology, where everyone can dive into the best experiences.
 
 ---
 
