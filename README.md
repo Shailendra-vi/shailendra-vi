@@ -1,26 +1,23 @@
-# 🚀 Hi, I'm Shailendra Vishwakarma! 👋
+# Hi, I'm Shailendra Vishwakarma! 👋
 
-## 🌟 Computer Enthusiast | Full-Stack Developer
+## Development Enthusiast
 
 I love exploring new challenges and pushing boundaries in the tech world. My passion lies in building scalable, high-performance applications using modern JavaScript frameworks and backend technologies. 
 
 ---
 
-### 🛠️ Tech Stack & Expertise:
+### Tech Stack & Expertise:
 
 - **Frontend:** React.js, Next.js, Tailwind CSS, ShadCN UI
 - **Backend:** Node.js, Express.js
-- **DevOps & Tools:** Docker, Redis, RabbitMQ, NGINX
+- **Tools:** Docker, Redis, RabbitMQ, NGINX
 - **AI & ML:** OpenAI's GPT, Google's Gemini APIs, Ollama models (DeepSeek R1)
 - **Other Technologies:** ArcGIS
 
 ---
 
-### 🚀 What Drives Me?
-✅ Solving complex problems with elegant solutions  
-✅ Exploring AI-driven applications and models  
-✅ Building scalable, efficient, and user-friendly applications  
-✅ Continuous learning and contributing to the developer community  
+### What Drives Me?
+The new era of technolgy where everyone can dive best experience
 
 ---
 
@@ -31,4 +28,4 @@ I love exploring new challenges and pushing boundaries in the tech world. My pas
 
 ---
 
-💡 _"The only way to do great work is to love what you do."_ – Steve Jobs ✨
+_"The only way to become best version is to keep exploring and upgrading yourself"_
