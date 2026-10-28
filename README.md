@@ -1,31 +1,21 @@
-# Hi, I'm Shailendra Vishwakarma! 👋
+# Shailendra Vishwakarma
 
-## Development Enthusiast
+**Software Development Engineer · React Native · React · Next.js**
 
-I love exploring new challenges and pushing boundaries in the tech world. My passion lies in building scalable, high-performance applications using modern JavaScript frameworks and backend technologies. 
+Building reliable web and mobile products.
 
----
+### Stack
+- **Languages:** JavaScript, TypeScript, Python, Java, SQL
+- **Frontend & Mobile:** React, React Native, Next.js, Redux, Tailwind CSS
+- **Backend:** Node.js, REST APIs, PostgreSQL
+- **Tools:** Git, Docker, Linux, Postman, Xcode, Android Studio
+- **AI Tools:** Claude Code, ChatGPT, GitHub Copilot
 
-### Tech Stack & Expertise:
+### Highlights
+- Built and configured **11 white-label mobile apps** from one React Native codebase.
+- Delivered payment, booking, and payout workflows.
+- Built web APIs and database workflows with Next.js, Node.js, and PostgreSQL.
+- Developed geospatial dashboards and data pipelines with React and ArcGIS.
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, ShadCN UI
-- **Backend:** Node.js, Express.js
-- **Tools:** Docker, Redis, RabbitMQ, NGINX
-- **AI & ML:** OpenAI's GPT, Google's Gemini APIs, Ollama models (DeepSeek R1)
-- **Other Technologies:** ArcGIS
-
----
-
-### What Drives Me?
-The new era of technology, where everyone can dive into the best experiences.
-
----
-
-### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shailendra-v/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Shailendra-vi)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/SaVskrma)  
-
----
-
-_"The only way to become best version is to keep exploring and upgrading yourself"_
+### Connect
+[LinkedIn](https://www.linkedin.com/in/shailendra-v/) · [GitHub](https://github.com/Shailendra-vi) · [X](https://x.com/SaVskrma)
